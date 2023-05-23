@@ -135,6 +135,10 @@ hr {
 .footer {
     display: flex;
     justify-content: space-between;
+    margin: 0;
+    padding: 40px;
+
+}
 
 
 .social {
@@ -144,6 +148,10 @@ hr {
 
 .social li {
     display: inline;
-    margin: 0 30px;
+    margin: 0 auto;
+}
+
+.social li a i {
+    
 }
 
