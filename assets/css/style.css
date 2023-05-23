@@ -136,4 +136,14 @@ hr {
     display: flex;
     justify-content: space-between;
 
+
+.social {
+    display: flex;
+    justify-content: flex-start;
 }
+
+.social li {
+    display: inline;
+    margin: 0 30px;
+}
+
