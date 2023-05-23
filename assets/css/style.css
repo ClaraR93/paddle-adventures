@@ -106,7 +106,7 @@ hr {
 
 #what-we-do-container {
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
     margin: 0 auto;
     height: 250px;
@@ -123,11 +123,17 @@ hr {
 
 #what-we-do h3 {
     letter-spacing: 3px;
-    padding-bottom: 15px;
+    padding: 20px;
 }
 
 #what-we-do p {
     line-height: 25px;
 }
+
 /*-------------------------Footer*/
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+
+}
