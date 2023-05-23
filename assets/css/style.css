@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+section {
+    background-color: #000;
+}
+
 /*-------------------------Header*/
 
 header {
@@ -54,7 +58,6 @@ header {
     height: 500px;
     width: 100%;
     background: url(../images/hero-image.JPG) no-repeat center center;
-    background-color: #000;
     background-attachment: fixed;
 }
 
@@ -74,7 +77,7 @@ header {
     font-weight: lighter;
     padding-top: 150px;
     letter-spacing: 3px;
-    
+
 }
 
 #cover-text h2 {
@@ -89,6 +92,22 @@ hr {
     border: 1px solid #fff;
     margin: 50px auto;
     width: 50px;
-    
+
 }
-    
+
+/*-------------------------What we do*/
+
+#what-we-do-container {
+    height: 250px;
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 0 auto;
+}
+
+#what-we-do {
+    margin: 0;
+    border: 0;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
