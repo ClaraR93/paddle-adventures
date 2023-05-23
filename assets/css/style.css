@@ -120,3 +120,14 @@ hr {
     color: #fff;
     padding: 7px;
 }
+
+#what-we-do h3 {
+    letter-spacing: 3px;
+    padding-bottom: 15px;
+}
+
+#what-we-do p {
+    line-height: 25px;
+}
+/*-------------------------Footer*/
+
