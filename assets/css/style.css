@@ -135,15 +135,25 @@ hr {
 .footer {
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
     margin: 0;
-    padding: 40px;
-
+    padding: 50px 90px;
 }
 
 
 .social {
     display: flex;
     justify-content: flex-start;
+    align-items: baseline;
+}
+
+.social h4 {
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.social ul {
+    padding: 30px;
 }
 
 .social li {
@@ -152,6 +162,6 @@ hr {
 }
 
 .social li a i {
-    
+    font-size: 50px;
 }
 
