@@ -55,6 +55,7 @@ header {
     width: 100%;
     background: url(../images/hero-image.JPG) no-repeat center center;
     background-color: #000;
+    background-attachment: fixed;
 }
 
 /*-------------------------Cover title*/
