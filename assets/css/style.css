@@ -211,7 +211,7 @@ hr {
     text-transform: uppercase;
 }
 
-.large-rivers-container {
+.large-container {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -221,7 +221,7 @@ hr {
     padding-bottom: 60px;
 }
 
-.small-rivers-container {
+.small-container {
     width: 350px;
     height: 380px;
     background-color: #4B4A54;
