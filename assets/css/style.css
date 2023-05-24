@@ -137,9 +137,9 @@ hr {
     justify-content: space-between;
     align-items: baseline;
     margin: 0;
-    padding: 50px 90px;
+    height: 100px;
+    background-color: #000;
 }
-
 
 .social {
     display: flex;
@@ -150,10 +150,8 @@ hr {
 .social h4 {
     font-size: 20px;
     letter-spacing: 3px;
-}
-
-.social ul {
-    padding: 30px;
+    padding-left: 10px;
+    color: #fff;
 }
 
 .social li {
@@ -161,7 +159,21 @@ hr {
     margin: 0 auto;
 }
 
-.social li a i {
-    font-size: 50px;
+.social ul {
+    padding: 20px
 }
+
+.social i {
+    font-size: 150%;
+    padding-left: 5px;
+    color: #fff;
+}
+
+.footer p {
+    padding-right: 10px;
+    font-size: 10px;
+    color: #fff;
+
+
+
 
