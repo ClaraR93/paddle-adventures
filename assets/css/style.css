@@ -196,7 +196,7 @@ hr {
 
 /*-------------------------Rivers section*/
 
-#rivers-header {
+#rivers-heading {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -204,7 +204,7 @@ hr {
     height: 60px;
 }
 
-#rivers-header h3 {
+#rivers-heading h3 {
     font-size: 25px;
     color: #000;
     letter-spacing: 3px;
