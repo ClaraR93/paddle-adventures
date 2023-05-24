@@ -211,42 +211,36 @@ hr {
     text-transform: uppercase;
 }
 
-.large-container {
+#river1-container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     align-items: center;
     width: 100%;
-    height: 400px;
-    background-color: rgba(130, 160, 170, 0.8);
-    padding-bottom: 60px;
+    height: 350px;
 }
 
-.small-container {
-    width: 350px;
-    height: 380px;
+#river2-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+
+}
+
+.image-container {
+    width: 300px;
+    height: 300px;
     background-color: #4B4A54;
-    padding: 5px;
+    margin: 0 10px;
+    
 }
 
-#middle-guil {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    object-position: bottom;
+.river-info {
+    background-color: #4B4A54;
+    width: 400px;
+    height: 150px;
 }
-
-#briancon {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
-#fornell-waterfalls {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
 /*-------------------------Visit, stay, experience section*/
 
 .places-container {
@@ -255,6 +249,13 @@ hr {
     width: 100%;
     height: 500px;
     background-color: #82A0AA;
+}
+
+.small-container {
+    width: 350px;
+    height: 380px;
+    background-color: #4B4A54;
+    padding: 5px;
 }
 
 /*-------------------------Media Queries*/
