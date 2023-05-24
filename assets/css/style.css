@@ -229,11 +229,16 @@ hr {
 }
 
 .image-container {
-    width: 300px;
+    width: 400px;
     height: 300px;
-    background-color: #4B4A54;
     margin: 0 10px;
     
+}
+
+.image-container img {
+    width: 100%;
+    object-fit: cover;
+    height: auto;
 }
 
 .river-info {
