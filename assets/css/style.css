@@ -68,19 +68,24 @@ header {
 
 /*-------------------------Cover title*/
 
-#cover-text {
-    background-color: rgba(0, 0, 0, 0.3);
-    color: #fff;
-    margin: 0 auto;
+#cover-text-container {
+    display: flex;
+    align-items: center;
     width: 100%;
     height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#cover-text {
+    width: 500px;
+    color: #fff;
+    margin: 0 auto;
 }
 
 #cover-text h1 {
     text-align: center;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: lighter;
-    padding-top: 150px;
     letter-spacing: 3px;
 
 }
@@ -89,7 +94,6 @@ header {
     text-align: center;
     font-size: 25px;
     font-weight: lighter;
-    padding-bottom: 200px;
     letter-spacing: 3px;
 }
 
@@ -110,7 +114,6 @@ hr {
     height: 250px;
     width: 350px;
     background-color: #4B4A54
-
 }
 
 #what-we-do {
@@ -207,6 +210,6 @@ hr {
     .navbar li {
         margin-bottom: 5px;
     }
+
+    #cover-text {}
 }
-
-
