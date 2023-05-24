@@ -208,9 +208,12 @@ hr {
 .small-rivers-container {
     width: 350px;
     height: 380px;
-    background-color: #4B4A54
+    background-color: #4B4A54;
+    padding: 5px;
 }
 
+#middle-guil {
+}
 /*-------------------------Media Queries*/
 
 
