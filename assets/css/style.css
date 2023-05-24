@@ -198,4 +198,15 @@ hr {
         font-size: 30px;
         padding-bottom: 20px;
     }
+
+    .navbar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navbar li {
+        margin-bottom: 5px;
+    }
 }
+
+
