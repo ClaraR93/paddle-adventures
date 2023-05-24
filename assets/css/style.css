@@ -194,7 +194,7 @@ hr {
     color: #fff;
 }
 
-/*-------------------------Rivers*/
+/*-------------------------Rivers section*/
 
 #rivers-header {
     display: flex;
@@ -247,6 +247,15 @@ hr {
     object-fit: cover;
 }
 
+/*-------------------------Visit, stay, experience section*/
+
+.places-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 500px;
+    background-color: #82A0AA;
+}
 
 /*-------------------------Media Queries*/
 
