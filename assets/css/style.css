@@ -196,6 +196,21 @@ hr {
 
 /*-------------------------Rivers*/
 
+#rivers-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 60px;
+}
+
+#rivers-header h3 {
+    font-size: 25px;
+    color: #000;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
 .large-rivers-container {
     display: flex;
     justify-content: space-evenly;
@@ -203,6 +218,7 @@ hr {
     width: 100%;
     height: 400px;
     background-color: rgba(130, 160, 170, 0.8);
+    padding-bottom: 60px;
 }
 
 .small-rivers-container {
