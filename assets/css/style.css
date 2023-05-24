@@ -23,13 +23,13 @@ section {
 header {
     padding: 50px;
     background-color: #000;
-
 }
 
 
 /*-------------------------Logo*/
 
 #logo {
+    margin-left: 10px;
     font-family: 'Shadows Into Light', cursive;
     font-size: 40px;
     font-weight: bold;
@@ -39,18 +39,19 @@ header {
 
 /*-------------------------Nav bar*/
 
-#navbar {
-    margin: 0 auto;
+.navbar {
+    display: flex;
+    justify-content: center;
     padding: 0;
     text-align: center;
 }
 
-#navbar li {
+.navbar li {
     display: inline;
     margin: 0 30px;
 }
 
-#navbar a {
+.navbar a {
     font-size: 25px;
     color: #fff;
     letter-spacing: 3px;
@@ -163,7 +164,7 @@ hr {
 .social h4 {
     font-size: 20px;
     letter-spacing: 3px;
-    padding-left: 10px;
+    margin-left: 10px;
     color: #fff;
 }
 
@@ -186,4 +187,15 @@ hr {
     padding-right: 10px;
     font-size: 10px;
     color: #fff;
+}
+
+/*-------------------------Media Queries*/
+
+
+@media screen and (max-width: 600px) {
+    #logo {
+        text-align: center;
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
 }
