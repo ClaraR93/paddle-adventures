@@ -78,10 +78,9 @@ header {
 }
 
 #cover-text {
-    width: 500px;
+    width: 800px;
     color: #fff;
     margin: 0 auto;
-    text-transform: uppercase;
 }
 
 #cover-text h1 {
@@ -89,7 +88,7 @@ header {
     font-size: 40px;
     font-weight: lighter;
     letter-spacing: 3px;
-
+    text-transform: uppercase;
 }
 
 #cover-text h2 {
