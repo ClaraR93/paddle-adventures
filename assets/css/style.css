@@ -277,6 +277,12 @@ hr {
 .small-container h4 {
     font-size: 20px;
     text-align: center;
+    margin: 5px 0;
+}
+
+.small-container p {
+    text-align: center;
+    line-height: 150%;
 }
 
 .place-image-container {
