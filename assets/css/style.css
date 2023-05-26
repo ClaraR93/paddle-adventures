@@ -244,7 +244,7 @@ hr {
 .river-info {
     background-color: #4B4A54;
     width: 400px;
-    height: 150px;
+    height: 250px;
 }
 /*-------------------------Visit, stay, experience section*/
 
@@ -271,6 +271,7 @@ hr {
     padding: 5px;
     text-transform: uppercase;
     color: #fff;
+    font-weight: lighter;
 }
 
 .place-image-container {
