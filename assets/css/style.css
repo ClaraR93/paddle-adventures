@@ -230,8 +230,14 @@ hr {
 .about-image-container {
     width: 380px;
     height: 380px;
-    background-color: #000;
+    background-color: #4B4A54
     margin: 30px;
+}
+
+.about-image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 /*-------------------------Rivers section*/
 
