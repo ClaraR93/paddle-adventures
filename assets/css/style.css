@@ -227,10 +227,25 @@ hr {
 
 }
 
+.about-info-container h3 {
+    font-size: 25px;
+    text-align: center;
+    margin: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.about-info-container p {
+    line-height: 150%;
+    margin: 20px;
+    color: #fff;
+}
+
 .about-image-container {
     width: 380px;
     height: 380px;
-    background-color: #4B4A54
+    background-color: #4B4A54;
     margin: 30px;
 }
 
