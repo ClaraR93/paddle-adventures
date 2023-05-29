@@ -383,8 +383,8 @@ hr {
     background-size: cover;
 }
 
-#sign-up-container {
-    background-color: #4B4A54;
+.sign-up-form {
+    background-color: rgba(130, 160, 170, 0.8);
     width: 600px;
     height: 600px;
 }
