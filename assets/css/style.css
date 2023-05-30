@@ -58,6 +58,10 @@ header {
     text-transform: uppercase;
 }
 
+.navbar a:hover {
+    border-bottom: solid 1px #fff;
+}
+
 /*-------------------------Hero image*/
 
 #hero-image {
@@ -126,8 +130,12 @@ hr {
     text-align: center;
     color: #fff;
     padding: 7px;
-
 }
+
+#what-we-do a {
+    color: inherit;
+}
+
 
 #what-we-do h3 {
     letter-spacing: 3px;
