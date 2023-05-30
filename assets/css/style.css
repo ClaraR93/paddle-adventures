@@ -383,6 +383,10 @@ hr {
     color: #fff;
 }
 
+.small-container a {
+    color: inherit;
+}
+
 .place-image-container {
     width: 350px;
     height: 180px;
