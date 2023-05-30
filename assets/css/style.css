@@ -423,6 +423,15 @@ hr {
     color: inherit;
 }
 
+.small-container a:hover {
+    color: #82A0AA;
+}
+
+.small-container i {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
 .place-image-container {
     width: 350px;
     height: 180px;
