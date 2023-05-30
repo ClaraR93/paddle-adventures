@@ -296,7 +296,7 @@ hr {
 .image-container {
     width: 400px;
     height: 320px;
-    margin: 0 10px;
+    margin: 0 20px;
 
 }
 
@@ -461,6 +461,17 @@ hr {
     }
 }
 
+@media screen and (max-width: 900px) {
+    #river1-container, #river2-container {
+        flex-direction: column;
+        height: 750px;
+    }
+
+    .image-container {
+        margin: 20px;
+    }
+
+}
 
 @media screen and (max-width: 768px) {
     #logo {
