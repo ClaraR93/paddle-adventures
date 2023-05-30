@@ -126,7 +126,7 @@ hr {
     text-align: center;
     color: #fff;
     padding: 7px;
-    
+
 }
 
 #what-we-do h3 {
@@ -258,6 +258,7 @@ hr {
     height: 100%;
     object-fit: cover;
 }
+
 /*-------------------------Rivers section*/
 
 #rivers-heading {
@@ -296,7 +297,7 @@ hr {
     width: 400px;
     height: 300px;
     margin: 0 10px;
-    
+
 }
 
 .image-container img {
@@ -320,6 +321,7 @@ hr {
     color: #fff;
     font-weight: lighter;
 }
+
 /*-------------------------Visit, stay, experience section*/
 
 .places-container {
@@ -389,12 +391,17 @@ hr {
     height: 600px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: inherit;
 }
 
 .text-input {
     margin: 20px;
+    padding-right: 68%;
+}
+
+.label-content {
+    padding: 0 20px;
 }
 
 .create-account {
@@ -402,6 +409,7 @@ hr {
     padding: 10px;
     font-weight: bold;
 }
+
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1110px) {
@@ -450,8 +458,9 @@ hr {
         height: 400px;
     }
 
-    .about-container1, .about-container2 {
-        height: 880px; 
+    .about-container1,
+    .about-container2 {
+        height: 880px;
     }
 }
 
@@ -484,7 +493,8 @@ hr {
         font-size: 15px;
     }
 
-    .about-container1, .about-container2 {
+    .about-container1,
+    .about-container2 {
         height: 880px;
     }
 
