@@ -396,6 +396,11 @@ hr {
     margin: 20px;
 }
 
+.create-account {
+    margin: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1110px) {
