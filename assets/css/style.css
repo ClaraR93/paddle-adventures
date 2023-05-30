@@ -293,14 +293,14 @@ hr {
 
 }
 
-.image-container {
+#image-container1, #image-container2 {
     width: 400px;
     height: 320px;
     margin: 0 20px;
 
 }
 
-.image-container img {
+#image-container1 img, #image-container2 img {
     width: 100%;
     object-fit: cover;
     height: auto;
@@ -470,10 +470,7 @@ hr {
     #river1-container, #river2-container {
         flex-direction: column;
         height: 750px;
-    }
-
-    .image-container {
-        margin: 20px;
+        justify-content: space-evenly;
     }
 
     .places-container {
@@ -544,12 +541,32 @@ hr {
 }
 
 @media screen and (max-width: 400px) {
-    .image-container {
+    #image-container1, #image-container2 {
         width: 100%;
     }
 
     .river-info {
         width: 100%;
+    }
+
+    .river-info p {
+        padding: 12px;
+    }
+
+    #image-container1, #image-container2 {
+        width: 100%;
+    }
+
+    .river-info {
+        height: 380px;
+    }
+
+    #image-container2 {
+        margin-top: 30px;
+    }
+
+    #river1-container {
+        margin-bottom: 20px;
     }
 
 }
@@ -580,5 +597,9 @@ hr {
     .about-image-container {
         width: 320px;
         height: 320px;
+    }
+
+    .river-info {
+        height: 400px;
     }
 }
