@@ -101,10 +101,20 @@ header {
     font-size: 25px;
     font-weight: lighter;
     letter-spacing: 3px;
+    padding: 2px;
 }
 
 #cover-text a {
     color: inherit;
+}
+
+#cover-text a:hover {
+    font-size: 29px;
+}
+
+#cover-text a:active {
+    font-size: 29px;
+    color: #000;
 }
 
 hr {
@@ -301,14 +311,16 @@ hr {
 
 }
 
-#image-container1, #image-container2 {
+#image-container1,
+#image-container2 {
     width: 400px;
     height: 320px;
     margin: 0 20px;
 
 }
 
-#image-container1 img, #image-container2 img {
+#image-container1 img,
+#image-container2 img {
     width: 100%;
     object-fit: cover;
     height: auto;
@@ -339,7 +351,7 @@ hr {
 .river-info a {
     color: inherit;
     padding-left: 15px;
-    
+
 }
 
 /*-------------------------Visit, stay, experience section*/
@@ -479,7 +491,9 @@ hr {
 }
 
 @media screen and (max-width: 900px) {
-    #river1-container, #river2-container {
+
+    #river1-container,
+    #river2-container {
         flex-direction: column;
         height: 750px;
         justify-content: space-evenly;
@@ -563,7 +577,9 @@ hr {
 }
 
 @media screen and (max-width: 400px) {
-    #image-container1, #image-container2 {
+
+    #image-container1,
+    #image-container2 {
         width: 100%;
     }
 
@@ -575,7 +591,8 @@ hr {
         padding: 12px;
     }
 
-    #image-container1, #image-container2 {
+    #image-container1,
+    #image-container2 {
         width: 100%;
     }
 
