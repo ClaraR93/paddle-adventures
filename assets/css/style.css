@@ -498,6 +498,11 @@ hr {
     font-family: 'Roboto Condensed';
 }
 
+.create-account:hover {
+    color: #fff;
+    background-color: #000;
+}
+
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1110px) {
