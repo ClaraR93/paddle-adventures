@@ -273,6 +273,18 @@ hr {
     color: #fff;
 }
 
+.about-info-container a {
+    color: inherit;
+}
+
+.about-info-container i {
+    font-size: 20px;
+}
+
+.about-info-container i:hover {
+    color: #82A0AA;
+}
+
 .about-image-container {
     width: 380px;
     height: 380px;
@@ -359,8 +371,11 @@ hr {
 
 .river-info a {
     color: inherit;
-    padding-left: 15px;
+    padding-left: 20px;
+}
 
+.river-info a:hover {
+    color: #82a0aa;
 }
 
 /*-------------------------Visit, stay, experience section*/
