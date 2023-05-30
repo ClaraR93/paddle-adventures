@@ -322,6 +322,10 @@ hr {
     font-weight: lighter;
 }
 
+.river-info p {
+    color: #fff;
+}
+
 /*-------------------------Visit, stay, experience section*/
 
 .places-container {
