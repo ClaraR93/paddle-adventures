@@ -480,6 +480,15 @@ hr {
     .about-container2 {
         height: 880px;
     }
+
+    .sign-up-form {
+        width: 350px;
+        height: 650px;
+    }
+
+    .text-input {
+        padding: 3px 160px 3px 3px;
+    }
 }
 
 @media screen and (max-width: 500px) {
