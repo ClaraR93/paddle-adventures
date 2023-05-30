@@ -540,6 +540,16 @@ hr {
     }
 }
 
+@media screen and (max-width: 430px) {
+    .river-info {
+        width: 100%;
+    }
+
+    .river-info p {
+        padding: 10px;
+    }
+}
+
 @media screen and (max-width: 400px) {
     #image-container1, #image-container2 {
         width: 100%;
@@ -601,5 +611,6 @@ hr {
 
     .river-info {
         height: 400px;
+        width: 340px
     }
 }
