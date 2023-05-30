@@ -395,9 +395,17 @@ hr {
     justify-content: inherit;
 }
 
+.sign-up-form h3 {
+    padding: 30px 20px;
+}
+
+.sign-up-form p {
+    padding: 20px;
+}
+
 .text-input {
     margin: 20px;
-    padding-right: 68%;
+    padding: 3px 410px 3px 3px;
 }
 
 .label-content {
