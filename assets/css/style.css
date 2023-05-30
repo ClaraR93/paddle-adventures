@@ -387,6 +387,13 @@ hr {
     background-color: rgba(130, 160, 170, 0.8);
     width: 600px;
     height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-input {
+    margin: 20px;
 }
 
 /*-------------------------Media Queries*/
