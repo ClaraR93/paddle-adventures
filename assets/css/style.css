@@ -214,8 +214,8 @@ hr {
     padding: 20px
 }
 
-.social i {
-    font-size: 150%;
+.social a {
+    font-size: 25px;
     padding-left: 5px;
     color: #fff;
 }
@@ -224,6 +224,10 @@ hr {
     padding-right: 10px;
     font-size: 10px;
     color: #fff;
+}
+
+.footer a:hover {
+    color: #82a0aa;
 }
 
 /*-------------------------About section*/
