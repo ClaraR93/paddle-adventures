@@ -58,7 +58,8 @@ header {
     text-transform: uppercase;
 }
 
-.navbar a:hover, .navbar a:active {
+.navbar a:hover,
+.navbar a:active {
     border-bottom: solid 1px #fff;
 }
 
@@ -90,8 +91,8 @@ header {
 
 #cover-text h1 {
     text-align: center;
-    font-size: 40px;
-    font-weight: lighter;
+    font-size: 30px;
+    font-weight: 300;
     letter-spacing: 3px;
     text-transform: uppercase;
 }
@@ -99,7 +100,7 @@ header {
 #cover-text h2 {
     text-align: center;
     font-size: 25px;
-    font-weight: lighter;
+    font-weight: 300;
     letter-spacing: 3px;
     padding: 2px;
 }
@@ -108,7 +109,8 @@ header {
     color: inherit;
 }
 
-#cover-text a:hover, #cover-text a:active {
+#cover-text a:hover,
+#cover-text a:active {
     font-size: 29px;
 }
 
@@ -157,7 +159,8 @@ hr {
     padding-left: 10px;
 }
 
-#what-we-do a:hover, #what-we-do a:active {
+#what-we-do a:hover,
+#what-we-do a:active {
     color: #000;
 }
 
@@ -224,7 +227,8 @@ hr {
     color: #fff;
 }
 
-.footer a:hover, .footer a:active {
+.footer a:hover,
+.footer a:active {
     color: #82a0aa;
 }
 
@@ -276,12 +280,14 @@ hr {
     color: #fff;
     text-transform: uppercase;
     letter-spacing: 3px;
+    font-weight: lighter;
 }
 
 .about-info-container p {
     line-height: 150%;
     margin: 20px;
     color: #fff;
+    font-size: 16px;
 }
 
 .about-info-container a {
@@ -292,7 +298,8 @@ hr {
     font-size: 20px;
 }
 
-.about-info-container i:hover, .about-info-container i:active {
+.about-info-container i:hover,
+.about-info-container i:active {
     color: #000;
 }
 
@@ -403,7 +410,8 @@ hr {
     padding-left: 20px;
 }
 
-.river-info a:hover, .river-info a:active {
+.river-info a:hover,
+.river-info a:active {
     color: #000;
 }
 
@@ -452,7 +460,8 @@ hr {
     color: inherit;
 }
 
-.small-container a:hover, .small-container a:active {
+.small-container a:hover,
+.small-container a:active {
     color: #000;
 }
 
@@ -529,7 +538,8 @@ hr {
     font-family: 'Roboto Condensed';
 }
 
-.create-account:hover, .create-account:active {
+.create-account:hover,
+.create-account:active {
     color: #fff;
     background-color: #000;
 }
