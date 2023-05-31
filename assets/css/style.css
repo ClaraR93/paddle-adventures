@@ -558,6 +558,13 @@ hr {
     line-height: 1.5;
 }
 
+#thank-you-container h2 {
+    font-size: 20px;
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1110px) {
