@@ -502,6 +502,7 @@ hr {
     padding: 30px 20px;
     letter-spacing: 3px;
     line-height: 1.5;
+    font-size: 20px;
 }
 
 .sign-up-form p {
@@ -614,6 +615,10 @@ hr {
     .sign-up-form {
         width: 350px;
         height: 650px;
+    }
+
+    .sign-up-form h3 {
+        text-align: center;
     }
 
     .text-input {
@@ -738,5 +743,9 @@ hr {
     .places-container {
         height: 2000px;
         padding-top: 0;
+    }
+
+    .sign-up-form {
+        width: 100%;
     }
 }
