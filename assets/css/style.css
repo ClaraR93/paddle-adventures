@@ -318,7 +318,7 @@ hr {
 }
 
 
-#rivers-heading {
+.explore-heading {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -326,7 +326,7 @@ hr {
     height: 60px;
 }
 
-#rivers-heading h3 {
+.explore-heading h3 {
     font-size: 25px;
     color: #000;
     letter-spacing: 3px;
@@ -407,7 +407,7 @@ hr {
     width: 100%;
     height: 630px;
     background-color: #82A0AA;
-    padding-top: 50px;
+    padding-top: 10px;
 }
 
 .small-container {
