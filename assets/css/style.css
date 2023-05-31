@@ -345,6 +345,10 @@ hr {
     color: #000;
     letter-spacing: 3px;
     text-transform: uppercase;
+    font-weight: 400;
+    background-color: #fff;
+    padding: 5px 40px;
+    border-radius: 5px;
 }
 
 #river1-container {
@@ -775,6 +779,10 @@ hr {
 
     .explore-heading {
         padding-top: 30px;
+    }
+
+    .explore-heading h3 {
+        padding: 5px;
     }
 
     .small-container {
