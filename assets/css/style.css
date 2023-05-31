@@ -192,6 +192,7 @@ hr {
     margin: 0;
     height: 100px;
     background-color: #000;
+    width: 100%;
 }
 
 .social {
@@ -369,7 +370,6 @@ hr {
     background-color: #4B4A54;
     width: 400px;
     height: 340px;
-    padding: 10px;
     outline: 1px solid #4B4A54;
     outline-offset: 10px;
 }
@@ -613,6 +613,10 @@ hr {
         padding: 0 20px;
     }
 
+    .river-info {
+        outline: none;
+    }
+
     .footer {
         display: flex;
         flex-direction: column;
@@ -627,7 +631,6 @@ hr {
 @media screen and (max-width: 430px) {
     .river-info {
         width: 100%;
-        outline: none;
     }
 
     .river-info p {
