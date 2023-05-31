@@ -387,6 +387,7 @@ hr {
 .river-info p {
     color: #fff;
     line-height: 150%;
+    padding: 5px;
 }
 
 .river-info a {
@@ -404,14 +405,14 @@ hr {
     display: flex;
     justify-content: space-evenly;
     width: 100%;
-    height: 600px;
+    height: 630px;
     background-color: #82A0AA;
     padding-top: 50px;
 }
 
 .small-container {
     width: 350px;
-    height: 560px;
+    height: 600px;
     background-color: #4B4A54;
 }
 
@@ -436,6 +437,7 @@ hr {
 .small-container p {
     line-height: 150%;
     color: #fff;
+    padding: 5px;
 }
 
 .small-container a {
