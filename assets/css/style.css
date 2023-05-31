@@ -128,7 +128,7 @@ hr {
     align-items: stretch;
     justify-content: center;
     margin: 0 auto;
-    height: 250px;
+    height: 265px;
     width: 350px;
     background-color: #4B4A54;
     outline: 1px solid #4B4A54;
@@ -150,7 +150,8 @@ hr {
 
 #what-we-do p {
     line-height: 150%;
-    font-weight: lighter;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
 }
 
 #what-we-do a {
