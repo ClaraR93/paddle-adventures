@@ -753,10 +753,15 @@ hr {
 @media screen and (max-width: 360px) {
     #what-we-do-container {
         width: 100%;
+        height: 280px;
     }
 
     #what-we-do {
         padding: 5px 10px;
+    }
+
+    #what-we-do a {
+        padding: 10px;
     }
 
     .footer h4 {
