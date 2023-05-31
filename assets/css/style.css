@@ -133,7 +133,9 @@ hr {
     margin: 0 auto;
     height: 250px;
     width: 350px;
-    background-color: #4B4A54
+    background-color: #4B4A54;
+    outline: 1px solid #4B4A54;
+    outline-offset: 10px;
 }
 
 #what-we-do {
