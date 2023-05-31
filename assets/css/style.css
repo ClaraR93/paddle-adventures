@@ -282,7 +282,7 @@ hr {
 }
 
 .about-info-container i:hover {
-    color: #82A0AA;
+    color: #000;
 }
 
 .about-image-container {
@@ -375,7 +375,7 @@ hr {
 }
 
 .river-info a:hover {
-    color: #82a0aa;
+    color: #000;
 }
 
 /*-------------------------Visit, stay, experience section*/
@@ -424,7 +424,7 @@ hr {
 }
 
 .small-container a:hover {
-    color: #82A0AA;
+    color: #000;
 }
 
 .small-container i {
