@@ -537,6 +537,27 @@ hr {
     background-color: #000;
 }
 
+/*-------------------------Thank you page*/
+
+#thank-you-container {
+    background-color: rgba(130, 160, 170, 0.8);
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#thank-you-container h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 0 50px;
+    text-align: center;
+    line-height: 1.5;
+}
+
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1110px) {
