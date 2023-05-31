@@ -58,7 +58,7 @@ header {
     text-transform: uppercase;
 }
 
-.navbar a:hover {
+.navbar a:hover, .navbar a:active {
     border-bottom: solid 1px #fff;
 }
 
@@ -108,13 +108,8 @@ header {
     color: inherit;
 }
 
-#cover-text a:hover {
+#cover-text a:hover, #cover-text a:active {
     font-size: 29px;
-}
-
-#cover-text a:active {
-    font-size: 29px;
-    color: #000;
 }
 
 hr {
@@ -162,7 +157,7 @@ hr {
     padding-left: 10px;
 }
 
-#what-we-do a:hover {
+#what-we-do a:hover, #what-we-do a:active {
     color: #000;
 }
 
@@ -229,9 +224,10 @@ hr {
     color: #fff;
 }
 
-.footer a:hover {
+.footer a:hover, .footer a:active {
     color: #82a0aa;
 }
+
 
 /*-------------------------About section*/
 #about-background-image {
@@ -296,7 +292,7 @@ hr {
     font-size: 20px;
 }
 
-.about-info-container i:hover {
+.about-info-container i:hover, .about-info-container i:active {
     color: #000;
 }
 
@@ -407,7 +403,7 @@ hr {
     padding-left: 20px;
 }
 
-.river-info a:hover {
+.river-info a:hover, .river-info a:active {
     color: #000;
 }
 
@@ -456,7 +452,7 @@ hr {
     color: inherit;
 }
 
-.small-container a:hover {
+.small-container a:hover, .small-container a:active {
     color: #000;
 }
 
@@ -533,7 +529,7 @@ hr {
     font-family: 'Roboto Condensed';
 }
 
-.create-account:hover {
+.create-account:hover, .create-account:active {
     color: #fff;
     background-color: #000;
 }
