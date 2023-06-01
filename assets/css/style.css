@@ -37,6 +37,14 @@ header {
 }
 
 
+header img {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 11px;
+    top: 60px;
+}
+
 /*-------------------------Nav bar*/
 
 .navbar {
