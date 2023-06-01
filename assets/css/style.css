@@ -21,7 +21,7 @@ section {
 /*-------------------------Header*/
 
 header {
-    padding: 50px;
+    padding: 50px 20px;
     background-color: #000;
 }
 
@@ -38,7 +38,8 @@ header {
 
 #logo-container {
     display: flex;
-    
+    justify-content: flex-start;
+
 }
 
 header img {
@@ -608,6 +609,12 @@ hr {
 
 /*-------------------------Media Queries*/
 
+@media screen and (max-width: 1260px) {
+    #logo-container {
+        justify-content: center;
+    }
+}
+
 @media screen and (max-width: 1110px) {
     .about-container1 {
         display: flex;
@@ -654,17 +661,16 @@ hr {
 
 }
 
-@media screen and (max-width: 768px) {
-    #logo {
-        text-align: center;
-    }
-}
-
 @media screen and (max-width: 600px) {
     #logo {
         text-align: center;
         font-size: 30px;
         padding-bottom: 20px;
+    }
+
+    #logo-container img {
+        width: 40px;
+        height: 40px;
     }
 
     .navbar {
