@@ -835,3 +835,9 @@ hr {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 300px) {
+    #what-we-do-container {
+        height: 320px;
+    }
+}
