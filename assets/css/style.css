@@ -511,7 +511,7 @@ hr {
     align-items: center;
     width: 100%;
     height: 800px;
-    background: url(../images/form-background.jpg) no-repeat center center;
+    background: url(../images/form-background.webp) no-repeat center center;
     background-size: cover;
 }
 
@@ -688,6 +688,15 @@ hr {
 
     .text-input {
         padding: 3px 160px 3px 3px;
+    }
+
+    #thank-you-container {
+        width: 350px;
+    }
+
+    #thank-you-container p {
+        width: 280px;
+        text-align: center;
     }
 }
 
