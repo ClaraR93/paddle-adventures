@@ -590,7 +590,7 @@ hr {
     justify-content: space-evenly;
 }
 
-#thank-you-container h1 {
+#thank-you-container h3 {
     font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 3px;
