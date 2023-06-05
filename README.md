@@ -113,7 +113,25 @@ The logo image featuring a paddle outline, was created by myself using the ‘Pa
 
 ### Wireframes
 
+Wireframes were created for mobile, tablet and desktop.
+
 ### Features
+
+The website consists of five pages, four of which are accessible from the navigation menu throughout the website and logo in the header. A final thank you page is accessible once the user submits the sign up form.
+
+*All pages on the website have:*
+
+- A responsive navigation bar which includes the website logo “Paddle Adventures” and navigation links across the header from left to right as followed - Home, About, Explore, and Sign up!
+
+- The logo is also encompassed within a link tag that navigates you back to the home page from each page. The logo is centered, and features a simple sketch of a kayak paddle to the left, creating a minimalistic, but striking look.
+
+- Each navigation link will display a bottom border when you hover over it, mimicking an underline to signify what page the user is about to click on.
+
+- On a screen size of less than 786px wide, the header remains in a sticky position at the top. This allows users on mobile and tablet devices to scroll down a page and access the navigation bar easily and immediately.
+
+- The footer consists of a headline of “Follow us!”, followed by font awesome icons to 3 social media websites - Facebook, Instagram and Youtube. These icons are universally recognised and when clicked on, open up in a separate browser to the page. When hovered over, these links display the colour #82A0AA, keeping in theme with the matching gradient.
+
+- Displayed on the far right is the copyright content in small font. On a mobile device the headline, social media links, and copyright content are stacked vertically and centered, so the footer doesn’t appear cluttered and the links are easily displayed and accessible to the user.
 
 ### Accessibility
 
