@@ -167,6 +167,11 @@ The form simply asks users to fill in a name, email, and password, in order to c
 
 - When the user hovers over the ‘create account’ button, the font switches to white, whilst the background colour switches to white. This provides a visual queue for the user to submit their details.
 
+*Thank You Page:*
+
+- When the user submits their details on the Sign Up page, this automatically navigates them to the Thank You page, with a simple message to the user thanking them, and then a prompt below, reminding the user to check their inbox for further instructions. This elicits a positive emotional response from the user, as they have successfully submitted their details without any issues.
+
+- There is a further ‘return to home’ button below this information, to guide the user back to the index page.
 
 ### Accessibility
 
