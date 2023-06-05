@@ -133,6 +133,16 @@ The website consists of five pages, four of which are accessible from the naviga
 
 - Displayed on the far right is the copyright content in small font. On a mobile device the headline, social media links, and copyright content are stacked vertically and centered, so the footer doesn’t appear cluttered and the links are easily displayed and accessible to the user.
 
+*Home Page:*
+
+- A Hero image of an Alpine River in the mountains is displayed across the screen with a central heading in the foreground. This image is fixed to the screen, allowing the user to scroll down and view more of the picturesque mountains and river below. A black background with a transparency of 0.5 is laid over the image so the heading is legible, but the image is still clear and appreciated.
+  
+- The second heading, ‘Plan your adventure starting right here!’, features a link over the word ‘here’ that takes the user directly to the About page. ‘Here’, also increases slightly in size when the user hovers their mouse over the word. This gives the user a positive experience as they are encouraged to start planning their holiday as they navigate through the website, following clear instructions.
+
+- Directly below in the ‘What We Do’ section, another full width background image is featured with a translucent background of #82a0aa placed over it. (This colour also matches the social media links below, when hovered over). The text container colour is a dark shade of gray, #4B4A54, which is also used across all pages to box off information, keeping to a consistent theme colour.
+
+- The information featured gives the user a brief overview of what the website provides and a link (represented with a font-awesome icon of a globe), to the sign up page as well. When hovered over, the globe changes from white to black to signify to the user where to click.
+
 ### Accessibility
 
 ## Technologies Used
