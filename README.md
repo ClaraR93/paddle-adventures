@@ -30,7 +30,7 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
-  - [Deployment \& Local Developmen](#deployment--local-developmen)
+  - [Deployment \& Local Development](#deployment--local-development)
     - [Deployment](#deployment)
     - [Local Development](#local-development)
       - [How to Fork](#how-to-fork)
@@ -221,9 +221,20 @@ Google Dev Tools - To troubleshoot and test various features, and solve issues w
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://clarar93.github.io/paddle-adventures/index.html) - To show the website on a range of devices.
 
-## Deployment & Local Developmen
+## Deployment & Local Development
 
 ### Deployment
+
+Github Pages was used to deploy the live website. The instructions are as followed:
+
+1. Log in (sign up) to Github.
+2. Search for this repository, paddle-adventures.
+3. Navigate to the settings tab.
+4. On the left hand menu click on the pages link.
+5. In the source section, select main from the drop down menu under Branch. 
+6. Select root from the drop down folder and click save.
+7. Your live Github pages site is now deployed at the URL: https://clarar93.github.io/paddle-adventures/index.html
+
 
 ### Local Development
 
