@@ -763,6 +763,10 @@ hr {
         width: 280px;
         text-align: center;
     }
+
+    #sorry-container h2, h3 {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 500px) {
