@@ -48,3 +48,83 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
   * [Content]()
   * [Media]()
   * [Acknowledgment]()
+
+## User Experience (UX)
+
+### Initial Discussion
+
+#### Key Information for the site
+
+### User Stories
+
+#### Client Goals
+
+#### First Time Visitor Goals
+
+#### Returning Visitor Goals
+
+#### Frequent Visitor Goals
+
+## Design
+
+### Colour Scheme
+
+### Typography
+
+### Imagery
+
+### Wireframes 
+
+### Features
+
+### Accessibility 
+
+## Technologies Used 
+
+### Languages Used
+
+### Frameworks, Libraries & Programs Used
+
+## Deployment & Local Developmen
+
+### Deployment
+
+### Local Development 
+
+#### How to Fork
+
+#### How to Clone
+
+## Testing
+
+### W3C Validator
+
+### Solved Bugs
+
+### Known Bugs
+
+### Testing User Stories
+
+### Lighthouse
+
+#### Index Page
+
+#### About Page
+
+#### Explore Page
+
+#### Sign Up Page
+
+#### Thank You Page
+
+### Full Testing
+
+## Credits
+
+### Code Used
+
+### Content
+
+### Media
+
+### Acknowledgement
