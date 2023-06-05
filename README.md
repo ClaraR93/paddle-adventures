@@ -181,6 +181,14 @@ The form simply asks users to fill in a name, email, and password, in order to c
 
 ### Accessibility
 
+I have ensure that this website is as accessible friendly as possible, I have done the following to achieve this:
+
+- Used semantic HTML.
+- Included aria-label for website navigation to describe to the screen reader where the user is being taken to.
+- Used alt attributes to images in HTML to describe them.
+- Used visually hidden text to describe background images in CSS, where an alt attribute cannot be supplied.
+- Using the WebAIM colour contrast checker to ensure all body text is legible with sufficient contrast.
+  
 ## Technologies Used
 
 ### Languages Used
