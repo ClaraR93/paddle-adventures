@@ -143,6 +143,13 @@ The website consists of five pages, four of which are accessible from the naviga
 
 - The information featured gives the user a brief overview of what the website provides and a link (represented with a font-awesome icon of a globe), to the sign up page as well. When hovered over, the globe changes from white to black to signify to the user where to click.
 
+*About Page:*
+
+- The about page consists of two summaries that lets the user know the benefits of paddling in France, and travel information.
+‘Getting there’ includes a link to an external page for users to book a Ferry crossing. This helps the user with travel and booking logistics. The link is represented as a font-awesome icon of a ship, which when hovered over, changes from white to black.
+
+- Two appealing images are featured adjacent to each summary, giving the user a visual idea of what to expect on a kayaking holiday.
+
 ### Accessibility
 
 ## Technologies Used
