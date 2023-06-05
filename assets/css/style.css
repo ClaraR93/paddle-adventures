@@ -620,6 +620,21 @@ hr {
     justify-content: space-evenly;
 }
 
+#sorry-container h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#sorry-container h2 {
+    font-size: 25px;
+}
+
+#sorry-container h3 {
+    font-size: 18px;
+}
+
+
 /*-------------------------Media Queries*/
 
 @media screen and (max-width: 1260px) {
