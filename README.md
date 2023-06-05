@@ -150,6 +150,16 @@ The website consists of five pages, four of which are accessible from the naviga
 
 - Two appealing images are featured adjacent to each summary, giving the user a visual idea of what to expect on a kayaking holiday.
 
+*Explore Page:*
+
+- This page contains two featured rivers, presented with a photo and summary of each river and what to expect. Each feature river layout displays an image of a river, adjacent to the information presented on it.
+The text consists of the name, brief summary and informative links on the river. These include a ‘Put in’ and ‘Take out’ link that takes the user to an external page displaying maps with a pin, and a final link to youtube, so the user can watch POV videos of the rivers displayed. All links open on an external page so the user doesn’t “get lost” navigating their way through the site.
+
+- Below this, there are three equal sections inline with one another displaying information about where to visit, stay, and other nearby experiences. Each is accompanied with a photo and link to an external site with more information. These provide informative links for the user, pointing them out to helpful sources so they are able to structure and plan their holiday easily.
+
+- The links provided are represented by font-awesome icons, giving a visual cue for the user to click on. Again, when hovered over, these turn from white to black.
+The images under each heading here are also wrapped in these external links, allowing the user to quickly navigate to this page by simply clicking on the image.
+
 ### Accessibility
 
 ## Technologies Used
