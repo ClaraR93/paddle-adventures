@@ -160,6 +160,14 @@ The text consists of the name, brief summary and informative links on the river.
 - The links provided are represented by font-awesome icons, giving a visual cue for the user to click on. Again, when hovered over, these turn from white to black.
 The images under each heading here are also wrapped in these external links, allowing the user to quickly navigate to this page by simply clicking on the image.
 
+*Sign Up:*
+
+- This page consists of a full width image in the French Alps, with a form overlaid in the centre.
+The form simply asks users to fill in a name, email, and password, in order to create an account for the ‘online paddling community’ with ‘Paddler’s adventures’. A quick note below these reassures the user that personal information is not shared with third parties.
+
+- When the user hovers over the ‘create account’ button, the font switches to white, whilst the background colour switches to white. This provides a visual queue for the user to submit their details.
+
+
 ### Accessibility
 
 ## Technologies Used
