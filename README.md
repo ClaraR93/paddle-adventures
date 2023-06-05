@@ -173,6 +173,12 @@ The form simply asks users to fill in a name, email, and password, in order to c
 
 - There is a further ‘return to home’ button below this information, to guide the user back to the index page.
 
+*Future Implementations:*
+
+- The long-term goal is to update the feature rivers regularly to entice returning users to check up on other rivers they may not have considered. This would also apply to the ‘Explore more’ section in the Explore page to advertise places to stay, visit, and experience. The aim behind this is to not only encourage returning users to try different things, but to support and promote local businesses within the area by having them featured on this site.
+
+- The paddling-community will provide regular alerts that tell the user of new features on the Explore page, encouraging them to revisit the website. All previous features will remain in the paddling-community, so users can access this information at any time.
+
 ### Accessibility
 
 ## Technologies Used
