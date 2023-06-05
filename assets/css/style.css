@@ -648,13 +648,15 @@ hr {
     background-size: cover;
 }
 
-/*-------------------------Media Queries*/
+/*-------------------------Media Queries 1260px*/
 
 @media screen and (max-width: 1260px) {
     #logo-container {
         justify-content: center;
     }
 }
+
+/*-------------------------Media Queries 1100px*/
 
 @media screen and (max-width: 1110px) {
     .about-container1 {
@@ -678,11 +680,15 @@ hr {
     }
 }
 
+/*-------------------------Media Queries 1063px*/
+
 @media screen and (max-width: 1063px) {
     .places-container {
         height: 1300px;
     }
 }
+
+/*-------------------------Media Queries 900px*/
 
 @media screen and (max-width: 900px) {
 
@@ -702,6 +708,8 @@ hr {
 
 }
 
+/*-------------------------Media Queries 768px*/
+
 @media screen and (max-width: 768px) {
     header {
         padding: 20px;
@@ -710,6 +718,8 @@ hr {
         top: 0;
         }
 }
+
+/*-------------------------Media Queries 600px*/
 
 @media screen and (max-width: 600px) {
 
@@ -770,6 +780,8 @@ hr {
     }
 }
 
+/*-------------------------Media Queries 500px*/
+
 @media screen and (max-width: 500px) {
     #cover-text {
         padding: 0 20px;
@@ -790,6 +802,8 @@ hr {
     }
 }
 
+/*-------------------------Media Queries 430px*/
+
 @media screen and (max-width: 430px) {
     .river-info {
         width: 100%;
@@ -799,6 +813,8 @@ hr {
         padding: 10px;
     }
 }
+
+/*-------------------------Media Queries 400px*/
 
 @media screen and (max-width: 400px) {
 
@@ -874,6 +890,8 @@ hr {
     }   
 
 }
+
+/*-------------------------Media Queries 360px*/
 
 @media screen and (max-width: 360px) {
     #what-we-do-container {
