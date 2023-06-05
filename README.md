@@ -231,14 +231,18 @@ Github Pages was used to deploy the live website. The instructions are as follow
 2. Search for this repository, paddle-adventures.
 3. Navigate to the settings tab.
 4. On the left hand menu click on the pages link.
-5. In the source section, select main from the drop down menu under Branch. 
+5. In the source section, select main from the drop down menu under Branch.
 6. Select root from the drop down folder and click save.
-7. Your live Github pages site is now deployed at the URL: https://clarar93.github.io/paddle-adventures/index.html
-
+7. Your live Github pages site is now deployed at the following: [ClaraR93](https://clarar93.github.io/paddle-adventures/index.html)
 
 ### Local Development
 
 #### How to Fork
+
+To fork the paddle-adventures repository:
+
+1. Go to the GitHub repository.
+2. Click on Fork button in the upper right-hand corner.
 
 #### How to Clone
 
