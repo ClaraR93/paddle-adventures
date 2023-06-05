@@ -564,7 +564,7 @@ hr {
     letter-spacing: 3px;
 }
 
-.create-account {
+.all-buttons {
     margin: 30px;
     padding: 10px;
     font-weight: bold;
@@ -573,7 +573,7 @@ hr {
     font-family: 'Roboto Condensed';
 }
 
-.create-account:hover {
+.all-buttons:hover {
     color: #fff;
     background-color: #000;
 }
@@ -634,6 +634,11 @@ hr {
     font-size: 18px;
 }
 
+#sorry-container h1, #sorry-container h2, #sorry-container h3 {
+    background-color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+}
 
 /*-------------------------Media Queries*/
 
