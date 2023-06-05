@@ -100,7 +100,16 @@ The website uses this matching gradient scheme, pulled from [ColorSpace](https:/
 
 ### Typography
 
+I used Google Fonts for the following fonts:
+
+- Roboto Condensed for all headings, and subheadings across the site. This is a sans-serif font.
+- Roboto for the body text across the site. This is a sans-serif font.
+- Shadow into Light for the ‘Paddle Adventures’ logo font. This is a cursive font.
+
 ### Imagery
+
+All digital images, (excluding two images in the [credit](#media) section), were taken by myself. I converted these from jpeg to webp using [BIRME](https://www.birme.net/).
+The logo image featuring a paddle outline, was created by myself using the ‘Paintbrush’ application on my laptop.
 
 ### Wireframes
 
