@@ -623,7 +623,6 @@ hr {
 #sorry-container h1 {
     font-size: 50px;
     text-transform: uppercase;
-    letter-spacing: 3px;
 }
 
 #sorry-container h2 {
@@ -638,6 +637,7 @@ hr {
     background-color: #fff;
     padding: 8px;
     border-radius: 5px;
+    letter-spacing: 3px;
 }
 
 /*-------------------------Media Queries*/
