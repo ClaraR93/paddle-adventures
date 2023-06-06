@@ -53,6 +53,8 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
     - [Media](#media)
     - [Acknowledgement](#acknowledgement)
 
+- - -
+
 ## User Experience (UX)
 
 ### Initial Discussion
@@ -89,6 +91,8 @@ The sign up page provides a way for the user to register to an online paddling c
 #### Frequent Visitor Goals
 
 - I want to see regular updates to potential new places to paddle, places to visit, and things to do.
+
+- - -
 
 ## Design
 
@@ -189,6 +193,8 @@ I have ensure that this website is as accessible friendly as possible, I have do
 - Used visually hidden text to describe background images in CSS, where an alt attribute cannot be supplied.
 - Using the WebAIM colour contrast checker to ensure all body text is legible with sufficient contrast.
   
+- - -
+
 ## Technologies Used
 
 ### Languages Used
@@ -220,6 +226,8 @@ Google Dev Tools - To troubleshoot and test various features, and solve issues w
 [TinyPNG](https://tinypng.com/) - To compress large image files on website.
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://clarar93.github.io/paddle-adventures/index.html) - To show the website on a range of devices.
+
+- - -
 
 ## Deployment & Local Development
 
@@ -254,6 +262,8 @@ To clone the paddle-adventures repository:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied. Select enter.
 
+- - -
+
 ## Testing
 
 Testing was implemented throughout the entire build of this project. I used Chrome Developer tools to identify and troubleshoot problems along the way.
@@ -278,7 +288,6 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ![404 error page](docs/images/404-error.png)
 
-
 ### W3C Validator
 
 ### Solved Bugs
@@ -300,6 +309,8 @@ This rectified the issue, and created a working alternative for screen readers.
 #### Thank You Page
 
 ### Full Testing
+
+- - -
 
 ## Credits
 
