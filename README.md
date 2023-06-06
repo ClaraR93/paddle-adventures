@@ -246,6 +246,15 @@ To fork the paddle-adventures repository:
 
 #### How to Clone
 
+To clone the paddle-adventures repository: 
+
+1. Log in (sign up) to Github.
+2. Search for this repository, paddle-adventures.
+3. Select the code button and choose whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown to your clipboard.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied. Select enter.
+
+
 ## Testing
 
 ### W3C Validator
