@@ -270,6 +270,13 @@ I spoke to my mentor about this during our meeting and they suggested the websit
 The page suggested using a visually hidden text approach, by adding a real text label, and hiding the element visually in CSS.
 This rectified the issue, and created a working alternative for screen readers. 
 
+*The following suggestions were recommended when I submitted my site to peer code review on slack:*
+
+1. Jennifer Willson kindly suggested adding a 'return to home page' button link to the thank you page, as it creates an instant and obvious instruction for the user. 
+
+2. She also suggested adding a custom 404 error page that puts the user at ease if they find themselves redirected to it.
+
+![404 error page](docs/images/404-error.png)
 
 
 ### W3C Validator
