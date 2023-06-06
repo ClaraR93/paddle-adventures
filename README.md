@@ -264,6 +264,13 @@ Testing was implemented throughout the entire build of this project. I used Chro
 
 2. When I ran my HTML code through the W3C validator, the following warnings were displayed across all background-images with aria-labels accompanying their div containers.
 
+![Possible misuse of Aria-Label, W3C HTML Validator warning](docs/testing/w3c-html-validator-aria-label.png)
+
+I spoke to my mentor about this during our meeting and they suggested the website [ADG](https://www.accessibility-developer-guide.com/knowledge/aria/bad-practices/) to help understand aria-labels more. 
+The page suggested using a visually hidden text approach, by adding a real text label, and hiding the element visually in CSS.
+This rectified the issue, and created a working alternative for screen readers. 
+
+
 
 ### W3C Validator
 
