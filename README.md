@@ -254,8 +254,16 @@ To clone the paddle-adventures repository:
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied. Select enter.
 
-
 ## Testing
+
+Testing was implemented throughout the entire build of this project. I used Chrome Developer tools to identify and troubleshoot problems along the way.
+
+*The following issues were identified during my mid mentor meeting:*
+
+1. It was pointed out to me by my mentor that the 'Paddler Adventures' logo placed on the far left on desktop screens, made the right hand side of the header appear empty. They suggested that I centre the logo across all screen devices to keep a consistent and tidy look.
+
+2. When I ran my HTML code through the W3C validator, the following warnings were displayed across all background-images with aria-labels accompanying their div containers.
+
 
 ### W3C Validator
 
