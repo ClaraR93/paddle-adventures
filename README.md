@@ -227,6 +227,8 @@ Google Dev Tools - To troubleshoot and test various features, and solve issues w
 
 [Am I Responsive](https://ui.dev/amiresponsive?url=https://clarar93.github.io/paddle-adventures/index.html) - To show the website on a range of devices.
 
+[Flexbox Library](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks) - Used as a prompt and guidance for website structure and display.
+
 - - -
 
 ## Deployment & Local Development
@@ -254,7 +256,7 @@ To fork the paddle-adventures repository:
 
 #### How to Clone
 
-To clone the paddle-adventures repository: 
+To clone the paddle-adventures repository:
 
 1. Log in (sign up) to Github.
 2. Search for this repository, paddle-adventures.
@@ -276,14 +278,13 @@ Testing was implemented throughout the entire build of this project. I used Chro
 
 ![Possible misuse of Aria-Label, W3C HTML Validator warning](docs/testing/w3c-html-validator-aria-label.png)
 
-I spoke to my mentor about this during our meeting and they suggested the website [ADG](https://www.accessibility-developer-guide.com/knowledge/aria/bad-practices/) to help understand aria-labels more. 
+I spoke to my mentor about this during our meeting and they suggested the website [ADG](https://www.accessibility-developer-guide.com/knowledge/aria/bad-practices/) to help understand aria-labels more.
 The page suggested using a visually hidden text approach, by adding a real text label, and hiding the element visually in CSS.
-This rectified the issue, and created a working alternative for screen readers. 
+This rectified the issue, and created a working alternative for screen readers.
 
 *The following suggestions were recommended when I submitted my site to peer code review on slack:*
 
-1. Jennifer Willson kindly suggested adding a 'return to home page' button link to the thank you page, as it creates an instant and obvious instruction for the user. 
-
+1. Jennifer Willson kindly suggested adding a 'return to home page' button link to the thank you page, as it creates an instant and obvious instruction for the user.
 2. She also suggested adding a custom 404 error page that puts the user at ease if they find themselves redirected to it.
 
 ![404 error page](docs/images/404-error.png)
