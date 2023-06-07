@@ -460,8 +460,24 @@ Sign Up form
 
 ### Code Used
 
+- [Visually hidden code to replace misuse of aria-label](https://www.accessibility-developer-guide.com/knowledge/aria/bad-practices/)
+
+- [Form prompt used to encompass stand alone button in form element](https://stackoverflow.com/questions/24837102/the-element-button-must-not-appear-as-a-descendant-of-the-a-element)
+
 ### Content
+
+- Content for the website was written by Clara Reynolds, with inspiration from the “White Water South Alps: 65 Classic Runs for Kayaking & Rafting in France, Italy & Switzerland” book, by Peter Knowles (Author), Ian Beecroft (Author).
+
+- Clara Reynolds used her own experiences of visiting the French Alps several times in the past, implementing her own knowledge and guidance on where to paddle, places to visit and stay, and how to get there.
 
 ### Media
 
+- The [background image](assets/images/about-images/about-background-image1.webp) on the about page, and the [via-ferrata image](assets/images/explore-images/via-feratta.webp) on the explore page were kindly sent over to me and given permission to use by a friend, Sam Fitzpatrick.
+
+- All remaining photos were taken by Clara Reynolds.
+
 ### Acknowledgement
+
+- Sheryl Goldberg - My code institute mentor.
+
+- Jennifer Willson (Github) - For taking the time to peer review my website on slack and give feedback/suggestions.
