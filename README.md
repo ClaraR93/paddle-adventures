@@ -38,7 +38,6 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
   - [Testing](#testing)
     - [W3C Validator](#w3c-validator)
     - [Solved Bugs](#solved-bugs)
-    - [Known Bugs](#known-bugs)
     - [Testing User Stories](#testing-user-stories)
     - [Lighthouse](#lighthouse)
       - [Index Page](#index-page)
@@ -292,8 +291,6 @@ This rectified the issue, and created a working alternative for screen readers.
 ### W3C Validator
 
 ### Solved Bugs
-
-### Known Bugs
 
 ### Testing User Stories
 
