@@ -39,6 +39,9 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
     - [W3C Validator](#w3c-validator)
     - [Solved Bugs](#solved-bugs)
     - [Testing User Stories](#testing-user-stories)
+      - [First Time Visitors](#first-time-visitors)
+      - [Returning Visitors](#returning-visitors)
+      - [Frequent Visitor Goals](#frequent-visitor-goals-1)
     - [Lighthouse](#lighthouse)
       - [Index Page](#index-page)
       - [About Page](#about-page)
@@ -366,7 +369,7 @@ I noticed that on the sign up page the text input bars extended over to the righ
 
 ### Testing User Stories
 
-First Time Visitors
+#### First Time Visitors
 
 *I want to know where to start when planning my first paddling holiday.*
 
@@ -391,6 +394,20 @@ First Time Visitors
 - External links are clearly mapped with some form of text description and a font-awesome icon that when hovered over, changes colour. Visually recognisable images that represent the links, accompanying the information, allows the user to easily navigate to further information on how to plan their holiday.
 
 ![External links - Font Awesome](docs/images/font-awesome-links.png)
+
+#### Returning Visitors
+
+*I want to be able to sign up to the online paddling community to connect with others and share potential holiday adventures of my own.*
+
+- The sign up page on the website provides a simple form that allows the user to register to an external paddling community. This allows them to connect with other like-minded people and share their own experiences abroad. Once form details are submitted, the user is greeted with a thank you page with brief instructions to show the user their details have gone through.
+
+![Sign Up Page](docs/images/sign-up-page.png)
+
+#### Frequent Visitor Goals
+
+*I want to see regular updates to potential new places to paddle, places to visit, and things to do*
+
+- As mentioned in my future Implementations under [Features](#features), the explore page will display featured rivers and things to do, that will aim to get updated on a regular basis. This will entice users to regularly check the website for feature changes. They will also be notified by email alerts of any changes, after registering to the paddling-community.
 
 ### Lighthouse
 
