@@ -431,6 +431,29 @@ I did a quick google search on how to rectify the error and [stack overflow](htt
 
 ### Full Testing
 
+I tested my website on my MacBook Air (13-inch 2017) in Google Chrome and my Samsung A52 mobile phone.
+
+I also tested responsiveness on all different screen sizes, using chrome developer tools.
+
+Links:
+
+1. Tested each link on the index page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+2. Tested each link on the about page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+3. Tested each link on the explore page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+4. Tested each link on the sign up page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+5. Tested each link on the thank you page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+6. Tested each link on the 404 error page, including header and footer elements. Each link redirected to the correct page on the website, and any external links opened in a separate browser tab.
+
+Sign Up form
+
+1. I tried to submit the form without filling any information in, and the form correctly prompted me to fill in my name. After filling in my name and attempting to submit again, the form prompted me to fill in my email address. I then filled in a valid email address and attempted to submit. The form correctly prompted me to fill in a password. After completing this, I hit submit, and the page redirected me to the thank you page as it's supposed to.
+
+2. I tried to submit the form by filling in the email address, and the form prompted me to submit my name too. I filled this in and tried to submit again, the form prompted me to fill in my password. I submitted all three inputs and the page redirected me to the thank you page as it's supposed to.
+
+3. I tried to submit the form by filling in the password only, and the form prompted me to submit my name too. I filled this in and submitted again, and the form prompted me to enter an email address. I submitted all three inputs and the page redirected me to the thank you page as it's supposed to.
+
+4. I filled in all three inputs but put in an invalid email and tried to submit. The form prompted me to enter an @ symbol to proceed. I corrected this, submitted the form, and the page redirected me to the thank you page as it's supposed to.
+
 - - -
 
 ## Credits
