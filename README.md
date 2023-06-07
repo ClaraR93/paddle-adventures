@@ -118,6 +118,26 @@ The logo image featuring a paddle outline, was created by myself using the ‘Pa
 
 Wireframes were created for mobile, tablet and desktop.
 
+[Home Page - Desktop](docs/wireframes/home/home.png) |
+[Home Page - Tablet](docs/wireframes/home/home_tablet_.png) |
+[Home Page - Mobile](docs/wireframes/home/home_mobile.png)
+
+[About Page - Desktop](docs/wireframes/about/about.png) |
+[About Page - Tablet](docs/wireframes/about/about_tablet.png) |
+[About Page - Mobile](docs/wireframes/about/about_mobile.png)
+
+[Explore Page - Desktop](docs/wireframes/explore/explore.png) |
+[Explore Page - Tablet](docs/wireframes/explore/explore_tablet.png) |
+[Explore Page - Mobile](docs/wireframes/explore/explore_mobile.png)
+
+[Sign Up Page - Desktop](docs/wireframes/sign-up/sign_up.png) |
+[Sign Up Page - Tablet](docs/wireframes/sign-up/sign_up_tablet.png) |
+[Sign Up Page - Mobile](docs/wireframes/sign-up/sign_up_mobile.png)
+
+[Thank You Page - Desktop](docs/wireframes/thank-you/thank_you.png)|
+[Thank You Page - Tablet](docs/wireframes/thank-you/thank_you_tablet.png) |
+[Thank You Page - Mobile](docs/wireframes/thank-you/thank_you_mobile.png)
+
 ### Features
 
 The website consists of five pages, four of which are accessible from the navigation menu throughout the website and logo in the header. A final thank you page is accessible once the user submits the sign up form.
