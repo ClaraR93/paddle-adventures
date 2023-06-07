@@ -222,12 +222,16 @@ hr {
 
 #what-we-do a {
     color: inherit;
-    font-size: 20px;
     padding-left: 10px;
 }
 
 #what-we-do a:hover {
     color: #000;
+}
+
+#what-we-do i {
+    font-size: 20px;
+    margin-left: 5px;
 }
 
 #background-image {
@@ -314,7 +318,7 @@ hr {
     padding-left: 5px;
 }
 
-.about-info-container i:hover {
+.about-info-container a:hover {
     color: #000;
 }
 
@@ -869,7 +873,7 @@ hr {
 
     .small-container {
         width: 100%;
-        height: 630px;
+        height: 650px;
     }
     
     .place-image-container {
