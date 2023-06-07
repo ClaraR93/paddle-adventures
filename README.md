@@ -312,7 +312,7 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ### Solved Bugs
 
-1. *Explore Page - Featured Rivers:* 
+1. *Explore Page - Featured Rivers:*
 
 - In my initial design, as shown in the desktop wireframe, the river section consisted of one row and three columns, each displaying an image and text description. When I constructed a rough plan on CSS consisting of six divs, the amount of information displayed in one row appeared too cluttered, which could overwhelm the user with information, and contribute to a bad user experience.
 
@@ -324,36 +324,36 @@ This rectified the issue, and created a working alternative for screen readers.
 
 2. *Colour scheme across website:*
 
-- I originally decided on a very simple colour scheme of white text and black background, which worked really well for the header and footer elements, making them appear striking and memorable. However, when I set the section element background colour to black, (testing what it would look like if the background images didn't load), it made the header and footer appear blended in, with no real structure to the page. This would result in a bad user experience, as the header and footer didn’t look as bold and effective.
+- I originally decided on a very simple colour scheme of white text and black background, which worked really well for the header and footer elements, making them appear striking and memorable. However, when I set the section element background colour to black, (testing what it would look like if the background images didn't load), it made the header and footer appear blended in, with no real structure to the page. This would result in a bad user experience, as the header and footer didn't look as bold and effective.
 
 - As a solution, using My Color Space, I picked a matching gradient of #82A0AA for the midsection complimenting the header/footer elements and making each of these stand out.
 
-3. *Font change to paragraph elements:*
+1. *Font change to paragraph elements:*
 
 - Originally I kept the font consistent over all pages and elements, (excluding the logo), and this worked well for the headings. However, this appeared over-crowded in some of the paragraph content. To fix this, I decided to change the font here from 'Roboto Condensed' to 'Roboto', which made the information clearer and more legible to the user. Unfortunately, this resulted in some text-overflow, which I fixed by expanding the div container sizes, ensuring this was implemented in responsive design as well.
 
-4. *Hero image and image overlay on home page:*
+1. *Hero image and image overlay on home page:*
 
 - I found that Codeanywhere doesn't allow uploads of images over 1MB. So when I uploaded my chosen full width size images for the home page, I chose to adjust the image size to allow upload. Unfortunately, the image width was reduced to 1450px in order for it to scale down under 1MB. This limited the website to screen sizes below 1450px, as gaps would appear either side on larger monitors.
 To fix this, I had heard about Tiny PNG through slack's channel #gitpod-and-codeanywhere, and compressed both images. I then resized the max width to a much larger size, ensuring they would maintain their full width on larger monitors.
 
-5. *Font Awesome icons in explore page:*
+1. *Font Awesome icons in explore page:*
 
 - On the 30th May 2023, the Font Awesome website was temporarily down, resulting in non-visible font awesome icons across the site. The video icon on the Explore page didn't have any text accompanying it, so if the user found themselves on this page if Font Awesome was down, the external links to videos wouldn't be visible to the user. This would result in limited user experience and navigation on the page. As a quick fix, I added a short description next to the video icon, 'Watch on Youtube, allowing users to be able to still navigate to youtube if font awesome is down.
 
 - Furthermore, I went over all font awesome icons on each page and enclosed the external links around both the icon and adjacent description, keeping a consistent theme across the website.
 
-6. *Div containers in Explore Page:*
+1. *Div containers in Explore Page:*
 
 - When testing mobile responsiveness on the Explore Page, I noticed all the div containing text content were sticking out of the screen to the right. This would cause a bad user experience, as it looked visibly unappealing and made it look like the page wasn't running properly on mobile devices.
 
-- After some investigation, using Chrome Developer tools, I removed the padding from the divs which fixed the issue. I then transferred the padding over to the paragraph elements to compensate for the initial loss of padding. 
+- After some investigation, using Chrome Developer tools, I removed the padding from the divs which fixed the issue. I then transferred the padding over to the paragraph elements to compensate for the initial loss of padding.
 
 1. *Mobile and small tablet scrolling:*
 
 - When scrolling through pages on a tablet and mobile device, I found that I was spending a long time scrolling back up to the navigation bar, particularly on the Explore Page. This meant the user could easily get lost on a page, contributing to a poor user experience. I fixed this by changing the header position to sticky, so that it would always remain at the top of the user's screen on smaller devices when browsing through a page.
   
-8. *Mobile testing responsiveness on sign up page:*
+8 *Mobile testing responsiveness on sign up page:*
 
 - When I tested mobile responsiveness on the site in Chrome Developer Tools, there were no obvious issues. I decided to test this on my own mobile phone as well, to see how easy it was to navigate from a physical mobile device.
 I noticed that on the sign up page the text input bars extended over to the right and outside the sign up form. This left the page looking glitchy and unprofessional.
@@ -365,6 +365,32 @@ I noticed that on the sign up page the text input bars extended over to the righ
 ![Explore Page - mobile - fixed](docs/images/form-mobile-fixed.jpg)
 
 ### Testing User Stories
+
+First Time Visitors
+
+*I want to know where to start when planning my first paddling holiday.*
+
+- A Guide to Paddling in the French Alps provides a starting point to planning your kayaking holiday, telling the user what they can provide on the Home page, and giving an overview on where to start in the About page. This is taken into further detail in the Explore page.
+
+![About Page](docs/images/about-page.png)
+
+*I want to be greeted with visually exciting imagery that appeals to the adventurous paddler and explorer.*
+
+- Each page on the website displays a full width background image, all featured within the French Alps, creating a visually pleasing experience for the user. The about and explore page feature additional images to compliment the information provided.
+
+![Home Page](docs/images/home-page.png)
+
+*I want to be able to navigate through the website with ease and find the information I require quickly.*
+
+- All site navigation is featured in the header of every page, centered and in clear, contrasting text. On a mobile and tablet screen, the header remains in a sticky position at the top, allowing the user to scroll through information without losing the navigation bar.
+
+![Explore Page - mobile](docs/images/explore-mobile.png)
+
+*I want to be able to easily navigate to external links provided that will give me further detailed information on how to plan my holiday.*
+
+- External links are clearly mapped with some form of text description and a font-awesome icon that when hovered over, changes colour. Visually recognisable images that represent the links, accompanying the information, allows the user to easily navigate to further information on how to plan their holiday.
+
+![External links - Font Awesome](docs/images/font-awesome-links.png)
 
 ### Lighthouse
 
