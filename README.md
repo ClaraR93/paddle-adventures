@@ -367,6 +367,14 @@ I noticed that on the sign up page the text input bars extended over to the righ
   
 ![Explore Page - mobile - fixed](docs/images/form-mobile-fixed.jpg)
 
+- *W3C HTML Validator for Thank You and 404 Page:*
+
+- When I ran both these pages through the validator the following error was displayed, stating that the element button must not appear as a direct descendant of the anchor tag.
+
+![W3C HTML Validator button error](docs/testing/w3c-html-validator-button.png)
+
+I did a quick google search on how to rectify the error and [stack overflow](https://stackoverflow.com/questions/24837102/the-element-button-must-not-appear-as-a-descendant-of-the-a-element) answers solved this for me; they prompted me to encompass the button in a form element rather than an anchor tag, resolving the issue.
+
 ### Testing User Stories
 
 #### First Time Visitors
