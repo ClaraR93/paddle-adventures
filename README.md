@@ -315,7 +315,7 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ### Solved Bugs
 
-1. *Explore Page - Featured Rivers:*
+- *Explore Page - Featured Rivers:*
 
 - In my initial design, as shown in the desktop wireframe, the river section consisted of one row and three columns, each displaying an image and text description. When I constructed a rough plan on CSS consisting of six divs, the amount of information displayed in one row appeared too cluttered, which could overwhelm the user with information, and contribute to a bad user experience.
 
@@ -325,38 +325,38 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ![Explore Page - desktop final](docs/images/explore-featured-rivers-page.png)
 
-2. *Colour scheme across website:*
+- *Colour scheme across website.*
 
-- I originally decided on a very simple colour scheme of white text and black background, which worked really well for the header and footer elements, making them appear striking and memorable. However, when I set the section element background colour to black, (testing what it would look like if the background images didn't load), it made the header and footer appear blended in, with no real structure to the page. This would result in a bad user experience, as the header and footer didn't look as bold and effective.
+- I originally decided on a very simple colour scheme of white text and black background, which worked really well for the header and footer elements, making them appear striking and memorable. However, when I set the section element background colour to black, testing what it would look like if the background images didn't load, it made the header and footer appear blended in, with no real structure to the page. This would result in a bad user experience, as the header and footer didn't look as bold and effective.
 
 - As a solution, using My Color Space, I picked a matching gradient of #82A0AA for the midsection complimenting the header/footer elements and making each of these stand out.
 
-1. *Font change to paragraph elements:*
+- *Font change to paragraph elements:*
 
 - Originally I kept the font consistent over all pages and elements, (excluding the logo), and this worked well for the headings. However, this appeared over-crowded in some of the paragraph content. To fix this, I decided to change the font here from 'Roboto Condensed' to 'Roboto', which made the information clearer and more legible to the user. Unfortunately, this resulted in some text-overflow, which I fixed by expanding the div container sizes, ensuring this was implemented in responsive design as well.
 
-1. *Hero image and image overlay on home page:*
+- *Hero image and image overlay on home page:*
 
 - I found that Codeanywhere doesn't allow uploads of images over 1MB. So when I uploaded my chosen full width size images for the home page, I chose to adjust the image size to allow upload. Unfortunately, the image width was reduced to 1450px in order for it to scale down under 1MB. This limited the website to screen sizes below 1450px, as gaps would appear either side on larger monitors.
 To fix this, I had heard about Tiny PNG through slack's channel #gitpod-and-codeanywhere, and compressed both images. I then resized the max width to a much larger size, ensuring they would maintain their full width on larger monitors.
 
-1. *Font Awesome icons in explore page:*
+- *Font Awesome icons in explore page:*
 
 - On the 30th May 2023, the Font Awesome website was temporarily down, resulting in non-visible font awesome icons across the site. The video icon on the Explore page didn't have any text accompanying it, so if the user found themselves on this page if Font Awesome was down, the external links to videos wouldn't be visible to the user. This would result in limited user experience and navigation on the page. As a quick fix, I added a short description next to the video icon, 'Watch on Youtube, allowing users to be able to still navigate to youtube if font awesome is down.
 
 - Furthermore, I went over all font awesome icons on each page and enclosed the external links around both the icon and adjacent description, keeping a consistent theme across the website.
 
-1. *Div containers in Explore Page:*
+- *Div containers in Explore Page:*
 
 - When testing mobile responsiveness on the Explore Page, I noticed all the div containing text content were sticking out of the screen to the right. This would cause a bad user experience, as it looked visibly unappealing and made it look like the page wasn't running properly on mobile devices.
 
 - After some investigation, using Chrome Developer tools, I removed the padding from the divs which fixed the issue. I then transferred the padding over to the paragraph elements to compensate for the initial loss of padding.
 
-1. *Mobile and small tablet scrolling:*
+- *Mobile and small tablet scrolling:*
 
 - When scrolling through pages on a tablet and mobile device, I found that I was spending a long time scrolling back up to the navigation bar, particularly on the Explore Page. This meant the user could easily get lost on a page, contributing to a poor user experience. I fixed this by changing the header position to sticky, so that it would always remain at the top of the user's screen on smaller devices when browsing through a page.
   
-8 *Mobile testing responsiveness on sign up page:*
+- *Mobile testing responsiveness on sign up page:*
 
 - When I tested mobile responsiveness on the site in Chrome Developer Tools, there were no obvious issues. I decided to test this on my own mobile phone as well, to see how easy it was to navigate from a physical mobile device.
 I noticed that on the sign up page the text input bars extended over to the right and outside the sign up form. This left the page looking glitchy and unprofessional.
@@ -405,7 +405,7 @@ I noticed that on the sign up page the text input bars extended over to the righ
 
 #### Frequent Visitor Goals
 
-*I want to see regular updates to potential new places to paddle, places to visit, and things to do*
+*I want to see regular updates to potential new places to paddle, places to visit, and things to do.*
 
 - As mentioned in my future Implementations under [Features](#features), the explore page will display featured rivers and things to do, that will aim to get updated on a regular basis. This will entice users to regularly check the website for feature changes. They will also be notified by email alerts of any changes, after registering to the paddling-community.
 
