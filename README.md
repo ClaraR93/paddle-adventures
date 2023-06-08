@@ -313,6 +313,8 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ### W3C Validator
 
+I used W3C HTML Validator on all pages created, and W3C CSS Validator on CSS content.
+
 - [Home]()
 
 - [About]()
