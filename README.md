@@ -43,11 +43,6 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
       - [Returning Visitors](#returning-visitors)
       - [Frequent Visitor Goals](#frequent-visitor-goals-1)
     - [Lighthouse](#lighthouse)
-      - [Index Page](#index-page)
-      - [About Page](#about-page)
-      - [Explore Page](#explore-page)
-      - [Sign Up Page](#sign-up-page)
-      - [Thank You Page](#thank-you-page)
     - [Full Testing](#full-testing)
   - [Credits](#credits)
     - [Code Used](#code-used)
@@ -454,16 +449,6 @@ Home Page - Mobile:
 I was a little disappointed with the mobile lighthouse test results, in particular the performance. Chrome Developer Tools pointed out that 'a long cache lifetime can speed up repeat visits to your page'.
 After researching ways to improve performance, I realized that this was beyond the scope of this project, as HTML and CSS alone cannot implement cache control.
 I had also already converted large image files to webp to optimize performance as best as I could. Perhaps in the future with further knowledge, I will revisit this website and improve cache control.
-
-#### Index Page
-
-#### About Page
-
-#### Explore Page
-
-#### Sign Up Page
-
-#### Thank You Page
 
 ### Full Testing
 
