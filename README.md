@@ -313,6 +313,18 @@ This rectified the issue, and created a working alternative for screen readers.
 
 ### W3C Validator
 
+- [Home]()
+
+- [About]()
+
+- [Explore]()
+
+- [Sign Up]()
+
+- [Thank You]()
+
+- [404]()
+
 ### Solved Bugs
 
 - *Explore Page - Featured Rivers:*
@@ -418,6 +430,8 @@ I did a quick google search on how to rectify the error and [stack overflow](htt
 - As mentioned in my future Implementations under [Features](#features), the explore page will display featured rivers and things to do, that will aim to get updated on a regular basis. This will entice users to regularly check the website for feature changes. They will also be notified by email alerts of any changes, after registering to the paddling-community.
 
 ### Lighthouse
+
+
 
 #### Index Page
 
