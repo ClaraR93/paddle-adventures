@@ -431,7 +431,27 @@ I did a quick google search on how to rectify the error and [stack overflow](htt
 
 ### Lighthouse
 
+I used Lighthouse in Chrome Developer tools so I could test the performance, accessibility, best practices and SEO of the website.
 
+Home Page - Desktop:
+
+![Initial lighthouse testing](docs/testing/lighthouse/lighthouse-home-desktop-before.png)
+
+I was pretty happy with the initial lighthouse test results, but wanted to further improve Best Practice.
+
+![Best practise error](docs/testing/lighthouse/best-practise-lighthouse-home-desktop.png)
+
+As shown in the image above, the paddle logo image could be resized to match the natural aspect ratio. I altered the width and height in CSS to resolve this and improve results.
+
+![Final lighthouse result](docs/testing/lighthouse/lighthouse-home-desktop-after.png)
+
+Home Page - Mobile:
+
+![Mobile lighthouse testing](docs/testing/lighthouse/lighthouse-home-mobile.png)
+
+I was a little disappointed with the mobile lighthouse test results, in particular the performance. Chrome Developer Tools pointed out that 'a long cache lifetime can speed up repeat visits to your page'.
+After researching ways to improve performance, I realized that this was beyond the scope of this project, as HTML and CSS alone cannot implement cache control.
+I had also already converted large image files to webp to optimize performance as best as I could. Perhaps in the future with further knowledge, I will revisit this website and improve cache control.
 
 #### Index Page
 
