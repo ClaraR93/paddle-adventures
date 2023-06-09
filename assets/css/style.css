@@ -16,7 +16,7 @@ section {
     background-color: #82A0AA;
 }
 
-/*-------------------------Code used from ADG website, see read me credits*/
+/*-------------------------Code used from ADG website, see README credits*/
 
 .visually-hidden {
     position: absolute;
@@ -92,6 +92,8 @@ header img {
     width: 100%;
 }
 
+/*-------------------------Footer social media links*/
+
 .social {
     display: flex;
     justify-content: flex-start;
@@ -119,15 +121,16 @@ header img {
     padding-left: 5px;
     color: #fff;
 }
+.footer a:hover {
+    color: #82a0aa;
+}
+
+/*-------------------------Footer copyright*/
 
 .footer p {
     padding-right: 10px;
     font-size: 10px;
     color: #fff;
-}
-
-.footer a:hover {
-    color: #82a0aa;
 }
 
 /*-------------------------Hero image on index page*/
@@ -234,6 +237,8 @@ hr {
     margin-left: 5px;
 }
 
+/*-------------------------What we do background image on index page*/
+
 #background-image {
     width: 100%;
     height: 400px;
@@ -251,7 +256,8 @@ hr {
 
 }
 
-/*-------------------------About section on about page*/
+/*-------------------------Background image on about page*/
+
 #about-background-image {
     width: 100%;
     height: 100%;
@@ -264,6 +270,8 @@ hr {
     width: 100%;
     height: 100%;
 }
+
+/*-------------------------Containers on about page*/
 
 .about-container1 {
     display: flex;
@@ -280,6 +288,8 @@ hr {
     width: 100%;
     height: 450px;
 }
+
+/*-------------------------Body text on about page*/
 
 .about-info-container {
     width: 600px;
@@ -322,6 +332,8 @@ hr {
     color: #000;
 }
 
+/*-------------------------Images on about page*/
+
 .about-image-container {
     width: 380px;
     height: 380px;
@@ -335,7 +347,8 @@ hr {
     object-fit: cover;
 }
 
-/*-------------------------Rivers section on explore page*/
+/*-------------------------Featured rivers background image on explore page*/
+
 #river-image-background {
     width: 100%;
     height: 100%;
@@ -349,6 +362,7 @@ hr {
     background-color: rgba(130, 160, 170, 0.8);
 }
 
+/*-------------------------Featured rivers heading on explore page*/
 
 .explore-heading {
     display: flex;
@@ -370,6 +384,8 @@ hr {
     border-radius: 5px;
 }
 
+/*-------------------------Featured rivers containers on explore page*/
+
 #river1-container {
     display: flex;
     justify-content: flex-start;
@@ -389,6 +405,8 @@ hr {
 
 }
 
+/*-------------------------Featured rivers images on explore page*/
+
 #image-container1,
 #image-container2 {
     width: 400px;
@@ -403,6 +421,8 @@ hr {
     object-fit: cover;
     height: auto;
 }
+
+/*-------------------------Featured rivers body text on explore page*/
 
 .river-info {
     background-color: #4B4A54;
@@ -438,7 +458,7 @@ hr {
     color: #000;
 }
 
-/*-------------------------Visit, stay, experience section on explore page*/
+/*-------------------------Explore more background image on explore page*/
 
 #explore-background-image {
     width: 100%;
@@ -453,6 +473,8 @@ hr {
     background-color: rgba(130, 160, 170, 0.8);
 }
 
+/*-------------------------Explore more containers on explore page*/
+
 .places-container {
     display: flex;
     justify-content: space-evenly;
@@ -466,6 +488,8 @@ hr {
     height: 620px;
     background-color: #4B4A54;
 }
+
+/*-------------------------Explore more body content on explore page*/
 
 .small-container h3 {
     font-size: 25px;
@@ -506,6 +530,8 @@ hr {
     padding-left: 5px;
 }
 
+/*-------------------------Explore more images on explore page*/
+
 .place-image-container {
     width: 350px;
     height: 180px;
@@ -517,7 +543,7 @@ hr {
     object-fit: cover;
 }
 
-/*-------------------------Sign up*/
+/*-------------------------Background image on sign up page*/
 
 .form-image {
     display: flex;
@@ -529,6 +555,8 @@ hr {
     background-size: cover;
 }
 
+/*-------------------------Form on sign up page*/
+
 .sign-up-form {
     background-color: rgba(130, 160, 170, 0.8);
     width: 600px;
@@ -539,12 +567,16 @@ hr {
     justify-content: inherit;
 }
 
+/*-------------------------Heading on sign up page*/
+
 .sign-up-form h3 {
     padding: 30px 20px;
     letter-spacing: 3px;
     line-height: 1.5;
     font-size: 20px;
 }
+
+/*-------------------------Personal information paragraph on sign up page*/
 
 .sign-up-form p {
     margin: 30px 30px 0px;
@@ -553,6 +585,8 @@ hr {
     background-color: #fff;
     border-radius: 5px;
 }
+
+/*-------------------------Input and label content on sign up page*/
 
 .text-input {
     margin: 20px;
@@ -564,6 +598,8 @@ hr {
     padding: 0 20px;
     letter-spacing: 3px;
 }
+
+/*-------------------------Button on sign up page*/
 
 .all-buttons {
     margin: 30px;
@@ -579,7 +615,7 @@ hr {
     background-color: #000;
 }
 
-/*-------------------------Thank you page*/
+/*-------------------------Container on thank you page*/
 
 #thank-you-container {
     background-color: rgba(130, 160, 170, 0.8);
@@ -591,6 +627,8 @@ hr {
     justify-content: space-evenly;
 }
 
+/*-------------------------Heading on thank you page*/
+
 #thank-you-container h3 {
     font-size: 30px;
     text-transform: uppercase;
@@ -601,6 +639,8 @@ hr {
     font-weight: 400;
 }
 
+/*-------------------------Sign up instruction paragraph on thank you page*/
+
 #thank-you-container p {
     font-size: 20px;
     background-color: white;
@@ -610,7 +650,7 @@ hr {
     font-family: 'Roboto', sans-serif;
 }
 
-/*-------------------------404 Error Page*/
+/*-------------------------Sorry container on 404 Error Page*/
 
 #sorry-container {
     width: 100%;
@@ -622,18 +662,26 @@ hr {
     background-color: rgba(130, 160, 170, 0.8);
 }
 
+/*-------------------------First heading on 404 Error Page*/
+
 #sorry-container h1 {
     font-size: 50px;
     text-transform: uppercase;
 }
 
+/*-------------------------Second heading on 404 Error Page*/
+
 #sorry-container h2 {
     font-size: 25px;
 }
 
+/*-------------------------Third heading on 404 Error Page*/
+
 #sorry-container h3 {
     font-size: 18px;
 }
+
+/*-------------------------All headings on 404 Error Page*/
 
 #sorry-container h1, #sorry-container h2, #sorry-container h3 {
     background-color: #fff;
@@ -641,6 +689,8 @@ hr {
     border-radius: 5px;
     letter-spacing: 3px;
 }
+
+/*-------------------------Background image on 404 Error Page*/
 
 #error-background-image {
     width: 100%;
@@ -652,6 +702,9 @@ hr {
 /*-------------------------Media Queries 1260px*/
 
 @media screen and (max-width: 1260px) {
+
+    /*-------------------------Home page*/
+
     #logo-container {
         justify-content: center;
     }
@@ -660,6 +713,9 @@ hr {
 /*-------------------------Media Queries 1100px*/
 
 @media screen and (max-width: 1110px) {
+
+    /*-------------------------About page*/
+
     .about-container1 {
         display: flex;
         justify-content: center;
@@ -676,6 +732,8 @@ hr {
         height: 680px;
     }
 
+    /*-------------------------Explore page*/
+
     .places-container {
         flex-wrap: wrap;
     }
@@ -684,6 +742,9 @@ hr {
 /*-------------------------Media Queries 1063px*/
 
 @media screen and (max-width: 1063px) {
+
+    /*-------------------------Explore page*/
+
     .places-container {
         height: 1300px;
     }
@@ -692,6 +753,8 @@ hr {
 /*-------------------------Media Queries 900px*/
 
 @media screen and (max-width: 900px) {
+
+    /*-------------------------Explore page*/
 
     #river1-container,
     #river2-container {
@@ -712,6 +775,9 @@ hr {
 /*-------------------------Media Queries 768px*/
 
 @media screen and (max-width: 768px) {
+
+    /*-------------------------Header*/
+
     header {
         padding: 20px;
         position: sticky;
@@ -723,6 +789,8 @@ hr {
 /*-------------------------Media Queries 600px*/
 
 @media screen and (max-width: 600px) {
+
+    /*-------------------------Header*/
 
     #logo {
         text-align: center;
@@ -744,6 +812,8 @@ hr {
         margin-bottom: 5px;
     }
 
+    /*-------------------------About page*/
+
     .about-info-container {
         width: 350px;
         height: 400px;
@@ -753,6 +823,8 @@ hr {
     .about-container2 {
         height: 880px;
     }
+
+    /*-------------------------Sign up page*/
 
     .sign-up-form {
         width: 350px;
@@ -767,6 +839,8 @@ hr {
         padding: 3px 160px 3px 3px;
     }
 
+    /*-------------------------Thank you page*/
+
     #thank-you-container {
         width: 350px;
     }
@@ -776,6 +850,8 @@ hr {
         text-align: center;
     }
 
+    /*-------------------------404 page*/
+
     #sorry-container h2, h3 {
         text-align: center;
     }
@@ -784,13 +860,20 @@ hr {
 /*-------------------------Media Queries 500px*/
 
 @media screen and (max-width: 500px) {
+
+    /*-------------------------Home page*/
+
     #cover-text {
         padding: 0 20px;
     }
 
+    /*-------------------------Explore page*/
+
     .river-info {
         outline: none;
     }
+
+    /*-------------------------Footer*/
 
     .footer {
         display: flex;
@@ -806,6 +889,9 @@ hr {
 /*-------------------------Media Queries 430px*/
 
 @media screen and (max-width: 430px) {
+
+    /*-------------------------Explore page*/
+
     .river-info {
         width: 100%;
     }
@@ -819,9 +905,13 @@ hr {
 
 @media screen and (max-width: 400px) {
 
+    /*-------------------------Home page*/
+
     #what-we-do-container {
         height: 300px;
     }
+
+    /*-------------------------About page*/
 
     .about-info-container {
         width: 100%;
@@ -843,6 +933,8 @@ hr {
         padding: 12px;
     }
 
+    /*-------------------------About page*/
+
     #image-container1,
     #image-container2 {
         width: 100%;
@@ -851,6 +943,8 @@ hr {
     #image-container2 {
         margin-top: 30px;
     }
+
+    /*-------------------------Explore page*/
 
     #river1-container {
         margin-bottom: 20px;
@@ -861,6 +955,26 @@ hr {
         width: 100%;
     }
 
+    .small-container {
+        width: 100%;
+        height: 650px;
+    }
+
+    .small-container p {
+        padding: 0 15px;
+    }
+
+    .place-image-container {
+        width: 100%;
+    }
+    
+    .places-container {
+        height: 2000px;
+        padding-top: 0;
+    }
+
+    /*-------------------------Sign up page*/
+
     .sign-up-form {
         width: 100%;
         display: flex;
@@ -870,31 +984,15 @@ hr {
     .text-input {
         padding-right: 60px;
     }
-
-    .small-container {
-        width: 100%;
-        height: 650px;
-    }
-    
-    .place-image-container {
-        width: 100%;
-    }
-    
-    .small-container p {
-        padding: 0 15px;
-    }
-    
-    
-    .places-container {
-        height: 2000px;
-        padding-top: 0;
-    }   
-
+      
 }
 
 /*-------------------------Media Queries 360px*/
 
 @media screen and (max-width: 360px) {
+
+    /*-------------------------Home page*/
+
     #what-we-do-container {
         width: 100%;
         outline: none;
@@ -908,9 +1006,13 @@ hr {
         padding: 10px;
     }
 
+    /*-------------------------Footer*/
+
     .footer h4 {
         font-size: 15px;
     }
+
+    /*-------------------------About page*/
 
     .about-container1,
     .about-container2 {
@@ -926,6 +1028,8 @@ hr {
         height: 320px;
     }
 
+    /*-------------------------Explore page*/
+
     .explore-heading {
         padding-top: 30px;
     }
@@ -935,8 +1039,23 @@ hr {
     }
 }
 
+/*-------------------------Media Queries 330px*/
+
+@media screen and (max-width: 330px) {
+
+    /*-------------------------About page*/
+
+    .about-info-container {
+        height: 440px;
+    }
+}
+
 /*-------------------------Media Queries 300px*/
+
 @media screen and (max-width: 300px) {
+
+    /*-------------------------Explore page*/
+
     .places-container {
         height: 2100px;
     }
