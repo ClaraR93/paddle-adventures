@@ -1051,19 +1051,15 @@ hr {
     .about-info-container {
         height: 460px;
     }
-}
-
-/*-------------------------Media Queries 300px*/
-
-@media screen and (max-width: 300px) {
 
     /*-------------------------Explore page*/
-
+    
     .places-container {
         height: 2100px;
     }
-
+    
     .small-container {
         height: 680px;
     }
 }
+
