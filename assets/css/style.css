@@ -934,3 +934,14 @@ hr {
         padding: 5px;
     }
 }
+
+/*-------------------------Media Queries 300px*/
+@media screen and (max-width: 300px) {
+    .places-container {
+        height: 2100px;
+    }
+
+    .small-container {
+        height: 680px;
+    }
+}
