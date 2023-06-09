@@ -298,6 +298,9 @@ hr {
     margin: 30px;
     outline: 1px solid #4B4a54;
     outline-offset: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 
 }
 
@@ -1046,7 +1049,7 @@ hr {
     /*-------------------------About page*/
 
     .about-info-container {
-        height: 440px;
+        height: 460px;
     }
 }
 
