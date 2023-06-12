@@ -307,17 +307,19 @@ This rectified the issue, and created a working alternative for screen readers.
 
 I used W3C HTML Validator on all pages created, and W3C CSS Validator on CSS content.
 
-- [Home]()
+- [Home](docs/w3c-validator/w3c-validator-index-page.png)
 
-- [About]()
+- [About](docs/w3c-validator/w3c-validator-about-page.png)
 
-- [Explore]()
+- [Explore](docs/w3c-validator/w3c-validator-explore-page.png)
 
-- [Sign Up]()
+- [Sign Up](docs/w3c-validator/w3c-validator-sign-up-page.png)
 
-- [Thank You]()
+- [Thank You](docs/w3c-validator/w3c-validator-thank-you-page.png)
 
-- [404]()
+- [404](docs/w3c-validator/w3c-validator-404-page.png)
+
+- [CSS Stylesheet](docs/w3c-validator/w3c-validator-css.png)
 
 ### Solved Bugs
 
