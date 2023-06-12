@@ -6,6 +6,8 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
 
 [View A Kayakers Guide To The French Alps on Github](https://github.com/ClaraR93/paddle-adventures/)
 
+[View the live website here](https://clarar93.github.io/paddle-adventures/index.html)
+
 - - -
 
 - [A Kayakers Guide To The French Alps](#a-kayakers-guide-to-the-french-alps)
