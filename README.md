@@ -476,6 +476,10 @@ Sign Up form
 
 4. I filled in all three inputs but put in an invalid email and tried to submit. The form prompted me to enter an @ symbol to proceed. I corrected this, submitted the form, and the page redirected me to the thank you page as it's supposed to.
 
+404 Error Page
+
+1. I tested the 404 page by adding a subdirectory to the URL that didn't exist. This brought up the 404 page as it's supposed to.
+
 - - -
 
 ## Credits
