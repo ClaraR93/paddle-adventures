@@ -8,10 +8,7 @@ The kayakers guide to the French Alps aims to inform and guide users who are loo
 
 - - -
 
-## CONTENTS
-
 - [A Kayakers Guide To The French Alps](#a-kayakers-guide-to-the-french-alps)
-  - [CONTENTS](#contents)
   - [User Experience (UX)](#user-experience-ux)
     - [Initial Discussion](#initial-discussion)
       - [Key Information for the site](#key-information-for-the-site)
@@ -105,12 +102,12 @@ I used Google Fonts for the following fonts:
 
 - Roboto Condensed for all headings, and subheadings across the site. This is a sans-serif font.
 - Roboto for the body text across the site. This is a sans-serif font.
-- Shadow into Light for the ‘Paddle Adventures’ logo font. This is a cursive font.
+- Shadow into Light for the 'Paddle Adventures' logo font. This is a cursive font.
 
 ### Imagery
 
-All digital images, (excluding two images in the [credit](#media) section), were taken by myself. I converted these from jpeg to webp using [BIRME](https://www.birme.net/).
-The logo image featuring a paddle outline, was created by myself using the ‘Paintbrush’ application on my laptop.
+All digital images, (excluding two images in the [credit](#media) section), were taken by Clara Reynolds. I converted these from jpeg to webp using [BIRME](https://www.birme.net/).
+The logo image featuring a paddle outline, was created by Clara Reynolds using the 'Paintbrush' application on my laptop.
 
 ### Wireframes
 
@@ -162,12 +159,12 @@ The website consists of five pages, four of which are accessible from the naviga
 
 - Directly below in the 'What We Do' section, another full width background image is featured with a translucent background of #82a0aa placed over it. (This colour also matches the social media links below, when hovered over). The text container colour is a dark shade of gray, #4B4A54, which is also used across all pages to box off information, keeping to a consistent theme colour.
 
-- The information featured gives the user a brief overview of what the website provides and a link (represented with a font-awesome icon of a globe), to the sign up page as well. When hovered over, the globe changes from white to black to signify to the user where to click.
+- The information featured gives the user a brief overview of what the website provides and a link (represented with a font-awesome icon of a globe), to the sign up page as well. When hovered over, the globe and text changes from white to black to signify to the user where to click.
 
 *About Page:*
 
 - The about page consists of two summaries that lets the user know the benefits of paddling in France, and travel information.
-'Getting there' includes a link to an external page for users to book a Ferry crossing. This helps the user with travel and booking logistics. The link is represented as a font-awesome icon of a ship, which when hovered over, changes from white to black.
+'Getting there' includes a link to an external page for users to book a Ferry crossing. This helps the user with travel and booking logistics. The link is represented as a font-awesome icon of a ship, which when hovered over with the adjacent text description, changes from white to black.
 
 - Two appealing images are featured adjacent to each summary, giving the user a visual idea of what to expect on a kayaking holiday.
 
@@ -178,7 +175,7 @@ The text consists of the name, brief summary and informative links on the river.
 
 - Below this, there are three equal sections inline with one another displaying information about where to visit, stay, and other nearby experiences. Each is accompanied with a photo and link to an external site with more information. These provide informative links for the user, pointing them out to helpful sources so they are able to structure and plan their holiday easily.
 
-- The links provided are represented by font-awesome icons, giving a visual cue for the user to click on. Again, when hovered over, these turn from white to black.
+- The links provided are represented by font-awesome icons, giving a visual cue for the user to click on. Again, when hovered over, these turn from white to black with their corresponding text.
 The images under each heading here are also wrapped in these external links, allowing the user to quickly navigate to this page by simply clicking on the image.
 
 *Sign Up:*
@@ -351,7 +348,7 @@ To fix this, I had heard about Tiny PNG through slack's channel #gitpod-and-code
 
 - *Font Awesome icons in explore page:*
 
-- On the 30th May 2023, the Font Awesome website was temporarily down, resulting in non-visible font awesome icons across the site. The video icon on the Explore page didn't have any text accompanying it, so if the user found themselves on this page if Font Awesome was down, the external links to videos wouldn't be visible to the user. This would result in limited user experience and navigation on the page. As a quick fix, I added a short description next to the video icon, 'Watch on Youtube, allowing users to be able to still navigate to youtube if font awesome is down.
+- On the 30th May 2023, the Font Awesome website was temporarily down, resulting in non-visible font awesome icons across the site. The video icon on the Explore page didn't have any text accompanying it, so if the user found themselves on this page if Font Awesome was down, the external links to videos wouldn't be visible to the user. This would result in limited user experience and navigation on the page. As a quick fix, I added a short description next to the video icon, 'Watch on Youtube', allowing users to be able to continue to navigate to youtube if font awesome is down.
 
 - Furthermore, I went over all font awesome icons on each page and enclosed the external links around both the icon and adjacent description, keeping a consistent theme across the website.
 
@@ -454,7 +451,7 @@ I had also already converted large image files to webp to optimize performance a
 
 I tested my website on my MacBook Air (13-inch 2017) in Google Chrome and my Samsung A52 mobile phone.
 
-I also tested responsiveness on all different screen sizes, using chrome developer tools.
+I also tested responsiveness on all different screen sizes, using Chrome Developer Tools.
 
 Links:
 
